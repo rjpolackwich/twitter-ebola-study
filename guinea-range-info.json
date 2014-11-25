@@ -1,0 +1,569 @@
+{
+    "Conakry": {
+        "coords": [
+            9.538, 
+            -13.688
+        ], 
+        "numresults": 2, 
+        "population": 1767200, 
+        "rthresh": 5, 
+        "th-1": {
+            "length": 100, 
+            "length_u": 30, 
+            "num_gps": 78, 
+            "num_gps_u": 10, 
+            "num_loc": 17, 
+            "num_loc_u": 7
+        }, 
+        "th-2": {
+            "length": 100, 
+            "length_u": 26, 
+            "num_gps": 83, 
+            "num_gps_u": 13, 
+            "num_loc": 86, 
+            "num_loc_u": 8
+        }, 
+        "th-3": {
+            "length": 100, 
+            "length_u": 19, 
+            "num_gps": 85, 
+            "num_gps_u": 8, 
+            "num_loc": 78, 
+            "num_loc_u": 6
+        }, 
+        "th-4": {
+            "length": 12, 
+            "length_u": 6, 
+            "num_gps": 11, 
+            "num_gps_u": 5, 
+            "num_loc": 10, 
+            "num_loc_u": 4
+        }, 
+        "th0": {
+            "length": 100, 
+            "length_u": 30, 
+            "num_gps": 76, 
+            "num_gps_u": 10, 
+            "num_loc": 18, 
+            "num_loc_u": 8
+        }, 
+        "th1": {
+            "length": 100, 
+            "length_u": 45, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 91, 
+            "num_loc_u": 27
+        }, 
+        "th2": {
+            "length": 100, 
+            "length_u": 45, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 91, 
+            "num_loc_u": 27
+        }, 
+        "th3": {
+            "length": 100, 
+            "length_u": 46, 
+            "num_gps": 3, 
+            "num_gps_u": 2, 
+            "num_loc": 88, 
+            "num_loc_u": 27
+        }, 
+        "th4": {
+            "length": 100, 
+            "length_u": 46, 
+            "num_gps": 3, 
+            "num_gps_u": 2, 
+            "num_loc": 88, 
+            "num_loc_u": 27
+        }
+    }, 
+    "Gueckedou": {
+        "coords": [
+            8.567, 
+            -10.134
+        ], 
+        "numresults": 5, 
+        "population": 79140, 
+        "rthresh": 17, 
+        "th-1": {
+            "length": 5, 
+            "length_u": 2, 
+            "num_gps": 5, 
+            "num_gps_u": 2, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th-2": {
+            "length": 5, 
+            "length_u": 2, 
+            "num_gps": 5, 
+            "num_gps_u": 2, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th-3": {
+            "length": 5, 
+            "length_u": 2, 
+            "num_gps": 5, 
+            "num_gps_u": 2, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th-4": {
+            "length": 5, 
+            "length_u": 2, 
+            "num_gps": 5, 
+            "num_gps_u": 2, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th0": {
+            "length": 5, 
+            "length_u": 2, 
+            "num_gps": 5, 
+            "num_gps_u": 2, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th1": {
+            "length": 100, 
+            "length_u": 21, 
+            "num_gps": 5, 
+            "num_gps_u": 2, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th2": {
+            "length": 100, 
+            "length_u": 21, 
+            "num_gps": 5, 
+            "num_gps_u": 2, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th3": {
+            "length": 100, 
+            "length_u": 21, 
+            "num_gps": 5, 
+            "num_gps_u": 2, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th4": {
+            "length": 100, 
+            "length_u": 21, 
+            "num_gps": 5, 
+            "num_gps_u": 2, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }
+    }, 
+    "Kankan": {
+        "coords": [
+            10.385, 
+            -9.306
+        ], 
+        "numresults": 3, 
+        "population": 114009, 
+        "rthresh": 25, 
+        "th-1": {
+            "length": 3, 
+            "length_u": 3, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 2, 
+            "num_loc_u": 2
+        }, 
+        "th-2": {
+            "length": 3, 
+            "length_u": 3, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 2, 
+            "num_loc_u": 2
+        }, 
+        "th-3": {
+            "length": 3, 
+            "length_u": 3, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 2, 
+            "num_loc_u": 2
+        }, 
+        "th-4": {
+            "length": 3, 
+            "length_u": 3, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 2, 
+            "num_loc_u": 2
+        }, 
+        "th0": {
+            "length": 3, 
+            "length_u": 3, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 2, 
+            "num_loc_u": 2
+        }, 
+        "th1": {
+            "length": 26, 
+            "length_u": 7, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 2, 
+            "num_loc_u": 2
+        }, 
+        "th2": {
+            "length": 25, 
+            "length_u": 7, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 2, 
+            "num_loc_u": 2
+        }, 
+        "th3": {
+            "length": 26, 
+            "length_u": 7, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 2, 
+            "num_loc_u": 2
+        }, 
+        "th4": {
+            "length": 26, 
+            "length_u": 7, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 2, 
+            "num_loc_u": 2
+        }
+    }, 
+    "Kindia": {
+        "coords": [
+            10.057, 
+            -12.866
+        ], 
+        "numresults": 5, 
+        "population": 117062, 
+        "rthresh": 21, 
+        "th-1": {
+            "length": 3, 
+            "length_u": 2, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th-2": {
+            "length": 4, 
+            "length_u": 2, 
+            "num_gps": 2, 
+            "num_gps_u": 1, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th-3": {
+            "length": 4, 
+            "length_u": 2, 
+            "num_gps": 2, 
+            "num_gps_u": 1, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th-4": {
+            "length": 3, 
+            "length_u": 2, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th0": {
+            "length": 3, 
+            "length_u": 2, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th1": {
+            "length": 100, 
+            "length_u": 6, 
+            "num_gps": 0, 
+            "num_gps_u": 0, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th2": {
+            "length": 100, 
+            "length_u": 10, 
+            "num_gps": 0, 
+            "num_gps_u": 0, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th3": {
+            "length": 100, 
+            "length_u": 12, 
+            "num_gps": 0, 
+            "num_gps_u": 0, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th4": {
+            "length": 100, 
+            "length_u": 12, 
+            "num_gps": 0, 
+            "num_gps_u": 0, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }
+    }, 
+    "Labe": {
+        "coords": [
+            11.318, 
+            -12.283
+        ], 
+        "numresults": 22, 
+        "population": 58649, 
+        "rthresh": 12, 
+        "th-1": {
+            "length": 27, 
+            "length_u": 7, 
+            "num_gps": 6, 
+            "num_gps_u": 4, 
+            "num_loc": 39, 
+            "num_loc_u": 3
+        }, 
+        "th-2": {
+            "length": 27, 
+            "length_u": 7, 
+            "num_gps": 6, 
+            "num_gps_u": 4, 
+            "num_loc": 39, 
+            "num_loc_u": 3
+        }, 
+        "th-3": {
+            "length": 27, 
+            "length_u": 7, 
+            "num_gps": 6, 
+            "num_gps_u": 4, 
+            "num_loc": 39, 
+            "num_loc_u": 3
+        }, 
+        "th-4": {
+            "length": 27, 
+            "length_u": 7, 
+            "num_gps": 6, 
+            "num_gps_u": 4, 
+            "num_loc": 39, 
+            "num_loc_u": 3
+        }, 
+        "th0": {
+            "length": 24, 
+            "length_u": 6, 
+            "num_gps": 3, 
+            "num_gps_u": 3, 
+            "num_loc": 39, 
+            "num_loc_u": 3
+        }, 
+        "th1": {
+            "length": 40, 
+            "length_u": 11, 
+            "num_gps": 3, 
+            "num_gps_u": 3, 
+            "num_loc": 39, 
+            "num_loc_u": 3
+        }, 
+        "th2": {
+            "length": 40, 
+            "length_u": 11, 
+            "num_gps": 3, 
+            "num_gps_u": 3, 
+            "num_loc": 39, 
+            "num_loc_u": 3
+        }, 
+        "th3": {
+            "length": 40, 
+            "length_u": 11, 
+            "num_gps": 3, 
+            "num_gps_u": 3, 
+            "num_loc": 39, 
+            "num_loc_u": 3
+        }, 
+        "th4": {
+            "length": 40, 
+            "length_u": 11, 
+            "num_gps": 3, 
+            "num_gps_u": 3, 
+            "num_loc": 39, 
+            "num_loc_u": 3
+        }
+    }, 
+    "Nzerekore": {
+        "coords": [
+            7.756, 
+            -8.818
+        ], 
+        "numresults": 1, 
+        "population": 132728, 
+        "rthresh": 5, 
+        "th-1": {
+            "length": 1, 
+            "length_u": 1, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th-2": {
+            "length": 1, 
+            "length_u": 1, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th-3": {
+            "length": 1, 
+            "length_u": 1, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th-4": {
+            "length": 1, 
+            "length_u": 1, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th0": {
+            "length": 1, 
+            "length_u": 1, 
+            "num_gps": 1, 
+            "num_gps_u": 1, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th1": {
+            "length": 100, 
+            "length_u": 16, 
+            "num_gps": 0, 
+            "num_gps_u": 0, 
+            "num_loc": 31, 
+            "num_loc_u": 1
+        }, 
+        "th2": {
+            "length": 100, 
+            "length_u": 46, 
+            "num_gps": 0, 
+            "num_gps_u": 0, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th3": {
+            "length": 100, 
+            "length_u": 48, 
+            "num_gps": 0, 
+            "num_gps_u": 0, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }, 
+        "th4": {
+            "length": 100, 
+            "length_u": 48, 
+            "num_gps": 0, 
+            "num_gps_u": 0, 
+            "num_loc": 0, 
+            "num_loc_u": 0
+        }
+    }, 
+    "Port Kamsar": {
+        "coords": [
+            10.667, 
+            -14.6
+        ], 
+        "numresults": 49, 
+        "population": 61527, 
+        "rthresh": 5, 
+        "th-1": {
+            "length": 100, 
+            "length_u": 10, 
+            "num_gps": 92, 
+            "num_gps_u": 2, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th-2": {
+            "length": 100, 
+            "length_u": 10, 
+            "num_gps": 92, 
+            "num_gps_u": 2, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th-3": {
+            "length": 100, 
+            "length_u": 10, 
+            "num_gps": 92, 
+            "num_gps_u": 2, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th-4": {
+            "length": 100, 
+            "length_u": 9, 
+            "num_gps": 92, 
+            "num_gps_u": 1, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th0": {
+            "length": 100, 
+            "length_u": 10, 
+            "num_gps": 92, 
+            "num_gps_u": 2, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th1": {
+            "length": 100, 
+            "length_u": 11, 
+            "num_gps": 47, 
+            "num_gps_u": 1, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th2": {
+            "length": 100, 
+            "length_u": 11, 
+            "num_gps": 47, 
+            "num_gps_u": 1, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th3": {
+            "length": 100, 
+            "length_u": 11, 
+            "num_gps": 47, 
+            "num_gps_u": 1, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }, 
+        "th4": {
+            "length": 100, 
+            "length_u": 11, 
+            "num_gps": 47, 
+            "num_gps_u": 1, 
+            "num_loc": 1, 
+            "num_loc_u": 1
+        }
+    }
+}
